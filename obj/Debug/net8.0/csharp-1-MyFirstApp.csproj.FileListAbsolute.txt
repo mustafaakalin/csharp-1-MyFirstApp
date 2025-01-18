@@ -1,0 +1,14 @@
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/bin/Debug/net8.0/csharp-1-MyFirstApp
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/bin/Debug/net8.0/csharp-1-MyFirstApp.deps.json
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/bin/Debug/net8.0/csharp-1-MyFirstApp.runtimeconfig.json
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/bin/Debug/net8.0/csharp-1-MyFirstApp.dll
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/bin/Debug/net8.0/csharp-1-MyFirstApp.pdb
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/obj/Debug/net8.0/csharp-1-MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/obj/Debug/net8.0/csharp-1-MyFirstApp.AssemblyInfoInputs.cache
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/obj/Debug/net8.0/csharp-1-MyFirstApp.AssemblyInfo.cs
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/obj/Debug/net8.0/csharp-1-MyFirstApp.csproj.CoreCompileInputs.cache
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/obj/Debug/net8.0/csharp-1-MyFirstApp.dll
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/obj/Debug/net8.0/refint/csharp-1-MyFirstApp.dll
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/obj/Debug/net8.0/csharp-1-MyFirstApp.pdb
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/obj/Debug/net8.0/csharp-1-MyFirstApp.genruntimeconfig.cache
+/home/mustafa/Documents/projects/csharp/csharp-1-MyFirstApp/obj/Debug/net8.0/ref/csharp-1-MyFirstApp.dll
